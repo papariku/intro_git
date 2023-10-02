@@ -1,3 +1,4 @@
 gitの練習2
 新しい行
 git status
+git diff
